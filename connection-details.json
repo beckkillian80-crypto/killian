@@ -1,0 +1,13 @@
+{
+  "host": "100.124.52.12",
+  "username": "runneradmin",
+  "connectionString": "100.124.52.12:3389",
+  "password": "P@ssw0rd!",
+  "provider": "tailscale",
+  "method": "vpn-direct",
+  "tailscaleIP": "100.124.52.12",
+  "tunnelUrl": "100.124.52.12:3389",
+  "status": "ready",
+  "port": "3389",
+  "timestamp": "2025-09-24 12:23:13 UTC"
+}
